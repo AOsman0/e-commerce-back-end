@@ -18,16 +18,6 @@ npm run dev on routes
 
 ```
 
-## Screenshots
-
-![screenshot1](./assets/images/Screenshot%202022-07-03%20at%2014.55.23.png)
-
-![screenshot2](./assets/images/Screenshot%202022-07-03%20at%2014.55.30.png)
-
-![screenshot3](./assets/images/Screenshot%202022-07-03%20at%2014.55.37.png)
-
-![screenshot4](./assets/images/Screenshot%202022-07-03%20at%2014.55.44.png)
-
 ## PostMan Endpoints
 
 ![postman link](./postman-endpoints/e-commerce-endpoints.postman_collection.json)
