@@ -18,9 +18,9 @@ npm run dev on routes
 
 ```
 
-## PostMan Endpoints
+## Video WalkThrough's
 
-![postman link](./postman-endpoints/e-commerce-endpoints.postman_collection.json)
+(https://drive.google.com/drive/folders/1Z9bsTR2tN0_ck0ENqaMmEYIgZdqAW5n5?usp=sharing)
 
 ## Technology Used
 
